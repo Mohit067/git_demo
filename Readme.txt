@@ -22,3 +22,4 @@ out of it.
 8. 'git commit'  -->   registers staging changes to a commit.
 
 
+
