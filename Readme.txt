@@ -21,5 +21,29 @@ out of it.
 
 8. 'git commit'  -->   registers staging changes to a commit.
 
+9. 'git log'  -->   list downs all commits of the repository.  If you want to exit out of git log prompt press  'q'.
 
+10.  'git restore'  -->   it removes all files changes from the staging area to be committed. This can be useful, if we did some dirty piece  
+of cod e and and now  no more want it. Instead of  deleting every change line by, we can say restore last clean version of the file.
 
+11.  'diff between  git rm and git restore'  -->   if you want to move the whole file  back to the  untracked state, then  we do git rm, 
+otherwise if we just want  the change to be  moved in area or staging area then we git restore.
+
+12.  'git diff commit1 commit2'  -->   gives the difference of all file changes between two commits.
+
+13.  'git commit -m "<your commit  message>"'  -->   if we want to avoid opening a text editor like vim/nano  to add commit message we can 
+use this following command.
+
+14.  'git remote'  -->   list down  all the remote connection names.
+
+15.  'Remote connection'  -->   It helps you to linnk two repositories ffor uploadinng and  downloading  changes from each ohterwise 
+
+16.   'git remote add <name of remote> <link of the remote>  -->   this  command helps  us to add a new link  to the remote repo and 
+give a name to it.
+
+ 17.  'git remote rm <name of remote>'  -->  this command deletes a remote connection.
+
+ 18.  'git remote rename <oldname> <newname>'  -->   this command renames the remote connection.
+
+ Note : The name of the  remote  connection is always used to estblish connection betweenthe repositories. 
+ 
