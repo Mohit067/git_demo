@@ -41,9 +41,14 @@ use this following command.
 16.   'git remote add <name of remote> <link of the remote>  -->   this  command helps  us to add a new link  to the remote repo and 
 give a name to it.
 
- 17.  'git remote rm <name of remote>'  -->  this command deletes a remote connection.
+17.  'git remote rm <name of remote>'  -->  this command deletes a remote connection.
 
- 18.  'git remote rename <oldname> <newname>'  -->   this command renames the remote connection.
+18.  'git remote rename <oldname> <newname>'  -->   this command renames the remote connection.
 
- Note : The name of the  remote  connection is always used to estblish connection betweenthe repositories. 
+Note : The name of the  remote  connection is always used to estblish connection betweenthe repositories. 
+
+
+19.  `git add <file1> <file1> <file1>`  -->   This  command will  add multip;le file changes together in the staging area
+
+20.  `git add " . " `  -->   this command will add all file working repo tro  stating are.
  
