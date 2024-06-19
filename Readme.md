@@ -45,6 +45,7 @@ give a name to it.
 
 18.  `git remote rename <oldname> <newname>`  -->   this command renames the remote connection.
 
+
 Note : The name of the  remote  connection is always used to estblish connection betweenthe repositories. 
 
 
@@ -53,3 +54,5 @@ Note : The name of the  remote  connection is always used to estblish connection
 20.  `git add " . " `  -->   this command will add all file working repo tro  stating are.
  
 21.  ` git pull <origin name> <branch name>`  --> download latest change from the branch of the mention remote in your local  repo
+
+
